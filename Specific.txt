@@ -1,0 +1,15 @@
+||adservetx.media.net^
+||media.fastclick.net^
+||cdn.luckyorange.com^
+||browser.sentry-cdn.com^
+||static.ads-twitter.com^
+||analytics.pointdrive.linkedin.com^
+||analytics.pinterest.com^
+||global.adserver.yahoo.com^
+||analytics.yahoo.com^
+||extmaps-api.yandex.net^
+||globalapi.ad.xiaomi.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||samsung-com.112.2o7.net^
+||business.samsungusa.com^
